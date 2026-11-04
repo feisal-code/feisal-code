@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Feisal Abdi Yussuf
 
-### 💻 Beginner Software Developer | PLP Student
+### 💻  Software Developer | PLP Student
 
 Welcome to my GitHub profile! 👋
 
